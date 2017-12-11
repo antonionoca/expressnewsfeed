@@ -1,0 +1,23 @@
+{
+  "name": "expressnewsfeed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonionoca/expressnewsfeed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonionoca/expressnewsfeed/issues"
+  },
+  "homepage": "https://github.com/antonionoca/expressnewsfeed#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
