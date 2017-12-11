@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/antonionoca/expressnewsfeed#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "axios": "^0.17.1",
+    "express": "^4.16.2",
+    "feedparser-promised": "^1.4.2",
+    "pug": "^2.0.0-rc.4",
+    "q": "^1.5.1"
   }
 }
